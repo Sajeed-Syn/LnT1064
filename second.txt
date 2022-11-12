@@ -2,3 +2,5 @@ We are learning git
 Net is a framework
 C# is a progamming language
 Html/Css used for web development
+WYSIWYG what you see is what you get
+Angular is client side script application
